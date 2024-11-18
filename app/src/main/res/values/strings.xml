@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">App Gemini Api</string>
     <string name="action_go">Gemini Api</string>
-    <string name="pergunteGemini">Pergunte algo a Gemini</string>
+    <string name="pergunteGemini">Pergunte à Gemini</string>
     <string name="pergunteAqui">Pergunte Aqui</string>
     <string name="textoAqui">Seu Texto Aqui</string>
     <string name="image1_description">Cupcake</string>
