@@ -6,6 +6,7 @@ plugins {
 
 android {
     namespace = "net.developermaster.appgeminiapi"
+
     compileSdk = 35 //todo recordemos que la version 35 es la ultima version de android
 
     defaultConfig {
