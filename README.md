@@ -26,7 +26,7 @@
 
 # Google Gemini Api
 
-# PORTUGUES
+## PORTUGUES
 
 Projeto: Assistente Pessoal Inteligente com Google Gemini e Kotlin
 
@@ -50,7 +50,7 @@ Arquitetura MVVM com Clean Architecture para separação de responsabilidades e 
 Personalização contínua baseada em Machine Learning, ajustando-se às necessidades do usuário ao longo do tempo.
 Este projeto demonstra o potencial da fusão entre Kotlin e inteligência artificial para criar soluções inovadoras e acessíveis, promovendo praticidade no cotidiano dos usuários.
 
-# ESPAÑOL
+## ESPAÑOL
 
 Proyecto: Asistente Personal Inteligente con Google Gemini y Kotlin
 
