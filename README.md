@@ -24,11 +24,13 @@
 
 ######
 
-# Google Gemini Api
+######
 
-## PORTUGUES
+# PORTUGUÊS
 
-Projeto: Assistente Pessoal Inteligente com Google Gemini e Kotlin
+## Google Gemini Api
+
+### Projeto: Assistente Pessoal Inteligente com Google Gemini e Kotlin
 
 Este projeto consiste em desenvolver um assistente pessoal inteligente utilizando Kotlin e a API de inteligência artificial Google Gemini. O objetivo é criar uma aplicação Android moderna e altamente interativa que aproveite os recursos avançados de IA para fornecer suporte em tarefas diárias, personalização de respostas e interações baseadas em linguagem natural.
 
@@ -50,9 +52,11 @@ Arquitetura MVVM com Clean Architecture para separação de responsabilidades e 
 Personalização contínua baseada em Machine Learning, ajustando-se às necessidades do usuário ao longo do tempo.
 Este projeto demonstra o potencial da fusão entre Kotlin e inteligência artificial para criar soluções inovadoras e acessíveis, promovendo praticidade no cotidiano dos usuários.
 
-## ESPAÑOL
+# ESPAÑOL
 
-Proyecto: Asistente Personal Inteligente con Google Gemini y Kotlin
+## Google Gemini Api
+
+### Proyecto: Asistente Personal Inteligente con Google Gemini y Kotlin
 
 Este proyecto consiste en desarrollar un asistente personal inteligente utilizando Kotlin y la API de inteligencia artificial Google Gemini. El objetivo es crear una aplicación Android moderna y altamente interactiva que aproveche los recursos avanzados de IA para proporcionar soporte en tareas diarias, personalización de respuestas e interacciones basadas en lenguaje natural.
 
